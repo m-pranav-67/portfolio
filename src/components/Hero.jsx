@@ -189,7 +189,7 @@ function Hero() {
                 },
               }}
             >
-              📄 Resume
+               Resume
             </Button>
           </Stack>
         </Grid>
