@@ -85,7 +85,7 @@ function Hero() {
             gutterBottom
             sx={{ fontWeight: 700 }}
           >
-            Hello, I'm 👋
+            Hi There,
           </Typography>
 
           <Typography
@@ -161,7 +161,7 @@ function Hero() {
                 },
               }}
             >
-              🚀 Explore Projects
+               Explore Projects
             </Button>
 
             <Button
